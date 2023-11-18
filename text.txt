@@ -1,0 +1,3 @@
+hello
+this is my test file for git 
+i am trying to understand git 
